@@ -1,0 +1,8 @@
+$ ls /etc
+DIR_COLORS        hosts                nsswitch.conf         services
+bash.bash_logout  inputrc              package-versions.txt  ssh/
+bash.bashrc       install-options.txt  pkcs11/               tigrc
+docx2txt.config   msystem              pki/                  vimrc
+fstab             mtab@                profile
+gitattributes     nanorc               profile.d/
+gitconfig         networks             protocols
